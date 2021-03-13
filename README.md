@@ -1,5 +1,5 @@
-# todo
-
+# To-Do
+Projeto feito em VueJS com objetivo de treinar o uso de componentes.
 ## Project setup
 ```
 npm install
